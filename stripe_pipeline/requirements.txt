@@ -1,0 +1,5 @@
+apache-airflow==2.9.3
+stripe==10.1.0
+pandas==2.2.2
+duckdb==1.0.0
+pyarrow==17.0.0
